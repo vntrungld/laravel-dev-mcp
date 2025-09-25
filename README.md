@@ -11,7 +11,7 @@ I hope this package will help people who just want to dig deeper into the Larave
     ```json
     {
       "mcpServers": {
-        "laravel-mcp-dev": {
+        "laravel-dev": {
           "command": "docker",
           "args": ["run", "--rm", "-i", "trungld/laravel-dev-mcp:latest"]
         }
@@ -28,7 +28,7 @@ I hope this package will help people who just want to dig deeper into the Larave
    ```json
     {
       "mcpServers": {
-        "laravel-mcp-dev": {
+        "laravel-dev": {
           "command": "docker",
           "args": ["run", "--rm", "-i", "trungld/laravel-dev-mcp:latest"]
         }
@@ -44,7 +44,7 @@ I hope this package will help people who just want to dig deeper into the Larave
    ```json
     {
       "mcpServers": {
-        "laravel-mcp-dev": {
+        "laravel-dev": {
           "command": "docker",
           "args": ["run", "--rm", "-i", "trungld/laravel-dev-mcp:latest"]
         }
