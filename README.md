@@ -35,7 +35,7 @@ I hope this package will help people who just want to dig deeper into the Larave
       }
     }
     ```
-3. Save the config
+3. **Save the config**
 
 #### For Github Copilot
 1. **Open the settings**
